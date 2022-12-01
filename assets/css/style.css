@@ -431,7 +431,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/MinhaFoto.png") top right;
+  background: url("../img/begin.jpg") top right;
   background-size: cover;
 }
 
@@ -452,12 +452,18 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
+  background-color: #000;
+  border-radius: 10px;
+  padding: 0.5%;
 }
 
 #hero h2 {
   color: #fff;
   margin: 10px 0 0 0;
   font-size: 22px;
+  background-color: #000;
+  border-radius: 10px;
+  padding: 0.5%;
 }
 
 #hero .btn-about {
